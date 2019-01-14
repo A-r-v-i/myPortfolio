@@ -2156,13 +2156,12 @@ img {
     padding: 0;
     overflow: hidden;
     text-align: center;
-    background-color: #ffffe4;
+    background: url("/img/home2.jpg");
     margin: 0;
 }
 
 .card.hovercard .cardheader {
-    background: url("/img/home2.jpg"); 
-    opacity: 1; 
+        opacity: 1; 
     background-size: cover;
     height: 210px;
     /* background: rgba(255, 255, 255, 0.568);  */
@@ -2187,7 +2186,7 @@ img {
     width: 200px;
     height: 250px;
     max-width: 200px;
-    margin-left: -11px;
+    margin-left: -2px;
 }
 
 .card.hovercard .info {
@@ -2412,7 +2411,7 @@ height: auto;
 
 }
 
-.head-text {
+.head-text h2{
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding-left: 3%;
